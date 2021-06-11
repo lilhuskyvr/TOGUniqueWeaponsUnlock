@@ -1,0 +1,7 @@
+﻿{
+  "Mod_Name": "TOGUniqueWeaponsUnlock",
+  "Author": "lilhusky",
+  "dllName": "TOGUniqueWeaponsUnlock",
+  "className": "TOGUniqueWeaponsUnlockPatch",
+  "startMethod": "Inject"
+}
